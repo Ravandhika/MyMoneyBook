@@ -13,16 +13,17 @@ public class LoginActivity extends AppCompatActivity {
 
     EditText username, password;
     Button button_login;
-
+    Button Test;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.activity_login);
 
         username = findViewById(R.id.textUser);
         password = findViewById(R.id.textPassword);
 
         button_login = findViewById(R.id.button_login);
+
 
         button_login.setOnClickListener(new View.OnClickListener() {
             @Override

@@ -5,6 +5,7 @@
       <map>
         <entry key="app/src/main/res/drawable/ic_Green Arror_background.xml" value="0.36041666666666666" />
         <entry key="app/src/main/res/drawable/ic_income.xml" value="0.36041666666666666" />
+        <entry key="app/src/main/res/layout/activity_cashflow.xml" value="0.1859375" />
         <entry key="app/src/main/res/layout/activity_detail_cash_flow.xml" value="0.29438405797101447" />
         <entry key="app/src/main/res/layout/activity_home.xml" value="0.29438405797101447" />
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.4672131147540984" />
